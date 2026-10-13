@@ -12,7 +12,7 @@ AI-powered career and job intelligence platform built with Java and Spring Boot.
 Java 17, Spring Boot 4, Spring Data JPA, H2 (PostgreSQL planned), Maven
 
 ## Run locally
-`.\mvnw.cmd spring-boot:run`, then open http://localhost:8081/api/users
+`.\mvnw.cmd spring-boot:run`, then open http://localhost:8081/
 
 ## Status
 Phase 1 done: project setup and User API.
